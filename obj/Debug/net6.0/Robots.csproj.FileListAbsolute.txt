@@ -1,0 +1,30 @@
+E:\QA Tester\Endava\Endava .NET project\workspace\SoA_08_2022\Robots\bin\Debug\net6.0\Robots.exe
+E:\QA Tester\Endava\Endava .NET project\workspace\SoA_08_2022\Robots\bin\Debug\net6.0\Robots.deps.json
+E:\QA Tester\Endava\Endava .NET project\workspace\SoA_08_2022\Robots\bin\Debug\net6.0\Robots.runtimeconfig.json
+E:\QA Tester\Endava\Endava .NET project\workspace\SoA_08_2022\Robots\bin\Debug\net6.0\Robots.dll
+E:\QA Tester\Endava\Endava .NET project\workspace\SoA_08_2022\Robots\bin\Debug\net6.0\Robots.pdb
+E:\QA Tester\Endava\Endava .NET project\workspace\SoA_08_2022\Robots\obj\Debug\net6.0\Robots.csproj.AssemblyReference.cache
+E:\QA Tester\Endava\Endava .NET project\workspace\SoA_08_2022\Robots\obj\Debug\net6.0\Robots.GeneratedMSBuildEditorConfig.editorconfig
+E:\QA Tester\Endava\Endava .NET project\workspace\SoA_08_2022\Robots\obj\Debug\net6.0\Robots.AssemblyInfoInputs.cache
+E:\QA Tester\Endava\Endava .NET project\workspace\SoA_08_2022\Robots\obj\Debug\net6.0\Robots.AssemblyInfo.cs
+E:\QA Tester\Endava\Endava .NET project\workspace\SoA_08_2022\Robots\obj\Debug\net6.0\Robots.csproj.CoreCompileInputs.cache
+E:\QA Tester\Endava\Endava .NET project\workspace\SoA_08_2022\Robots\obj\Debug\net6.0\Robots.dll
+E:\QA Tester\Endava\Endava .NET project\workspace\SoA_08_2022\Robots\obj\Debug\net6.0\refint\Robots.dll
+E:\QA Tester\Endava\Endava .NET project\workspace\SoA_08_2022\Robots\obj\Debug\net6.0\Robots.pdb
+E:\QA Tester\Endava\Endava .NET project\workspace\SoA_08_2022\Robots\obj\Debug\net6.0\Robots.genruntimeconfig.cache
+E:\QA Tester\Endava\Endava .NET project\workspace\SoA_08_2022\Robots\obj\Debug\net6.0\ref\Robots.dll
+E:\QA_Tester\Endava\Endava .NET project\workspace\SoA_08_2022\Homework_Robots_NikolayAngelov\Robots\bin\Debug\net6.0\Robots.exe
+E:\QA_Tester\Endava\Endava .NET project\workspace\SoA_08_2022\Homework_Robots_NikolayAngelov\Robots\bin\Debug\net6.0\Robots.deps.json
+E:\QA_Tester\Endava\Endava .NET project\workspace\SoA_08_2022\Homework_Robots_NikolayAngelov\Robots\bin\Debug\net6.0\Robots.runtimeconfig.json
+E:\QA_Tester\Endava\Endava .NET project\workspace\SoA_08_2022\Homework_Robots_NikolayAngelov\Robots\bin\Debug\net6.0\Robots.dll
+E:\QA_Tester\Endava\Endava .NET project\workspace\SoA_08_2022\Homework_Robots_NikolayAngelov\Robots\bin\Debug\net6.0\Robots.pdb
+E:\QA_Tester\Endava\Endava .NET project\workspace\SoA_08_2022\Homework_Robots_NikolayAngelov\Robots\obj\Debug\net6.0\Robots.csproj.AssemblyReference.cache
+E:\QA_Tester\Endava\Endava .NET project\workspace\SoA_08_2022\Homework_Robots_NikolayAngelov\Robots\obj\Debug\net6.0\Robots.GeneratedMSBuildEditorConfig.editorconfig
+E:\QA_Tester\Endava\Endava .NET project\workspace\SoA_08_2022\Homework_Robots_NikolayAngelov\Robots\obj\Debug\net6.0\Robots.AssemblyInfoInputs.cache
+E:\QA_Tester\Endava\Endava .NET project\workspace\SoA_08_2022\Homework_Robots_NikolayAngelov\Robots\obj\Debug\net6.0\Robots.AssemblyInfo.cs
+E:\QA_Tester\Endava\Endava .NET project\workspace\SoA_08_2022\Homework_Robots_NikolayAngelov\Robots\obj\Debug\net6.0\Robots.csproj.CoreCompileInputs.cache
+E:\QA_Tester\Endava\Endava .NET project\workspace\SoA_08_2022\Homework_Robots_NikolayAngelov\Robots\obj\Debug\net6.0\Robots.dll
+E:\QA_Tester\Endava\Endava .NET project\workspace\SoA_08_2022\Homework_Robots_NikolayAngelov\Robots\obj\Debug\net6.0\refint\Robots.dll
+E:\QA_Tester\Endava\Endava .NET project\workspace\SoA_08_2022\Homework_Robots_NikolayAngelov\Robots\obj\Debug\net6.0\Robots.pdb
+E:\QA_Tester\Endava\Endava .NET project\workspace\SoA_08_2022\Homework_Robots_NikolayAngelov\Robots\obj\Debug\net6.0\Robots.genruntimeconfig.cache
+E:\QA_Tester\Endava\Endava .NET project\workspace\SoA_08_2022\Homework_Robots_NikolayAngelov\Robots\obj\Debug\net6.0\ref\Robots.dll
